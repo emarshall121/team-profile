@@ -6,5 +6,5 @@ test('creates an engineer object', () => {
   expect(manager.name).toBe('Emily');
   expect(manager.id).toEqual(expect.any(Number));
   expect(manager.email).toContain('@');
-  expect(manager.number).toEqual(expect.any(Number));
+  expect(manager.officeNumber).toEqual(expect.any(Number));
 });
