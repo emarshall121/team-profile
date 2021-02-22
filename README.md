@@ -8,8 +8,10 @@ This application was built using [Node.js](https://nodejs.org/en/), [Inquirer](h
 
 # Screenshots
 ---
+![application screenshot](https://i.gyazo.com/53994a32caf5b76da91b66f2d3bc6569.png)
 
 # Video Walkthrough 
 ---
+[Walkthrough Video for App](https://screencast-o-matic.com/watch/crn3eVWnyo)
 
 
